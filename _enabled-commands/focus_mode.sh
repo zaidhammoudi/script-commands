@@ -20,8 +20,8 @@ HOSTS_FILE="/etc/hosts"
 declare -a ENTRIES=(
     "127.0.0.1   www.linkedin.com"
     "127.0.0.1   news.ycombinator.com"
-    "127.0.0.1   news.ycombinator.com"
     "127.0.0.1   www.facebook.com"
+    "127.0.0.1   www.gmail.com"
 )
 
 # Function to add an entry if it's not already in the file
